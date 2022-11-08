@@ -1,0 +1,145 @@
+{
+    "name": "Douglas Ribeiro (doug)",
+    "job": "Trainee Software Engineer",
+    "github": "dlopeiro",
+    "playlists": {
+        "lifestyle": [
+            { 
+                "title": "time to go fast",
+                "url": "https://www.youtube.com/watch?v=go-E9tjFlpw",
+                "thumb": "https://img.youtube.com/vi/go-E9tjFlpw/hqdefault.jpg"
+            },
+            { 
+                "title": "the annual pilgrimage",
+                "url": "https://www.youtube.com/watch?v=CN-u8_2ixOU",
+                "thumb": "https://img.youtube.com/vi/CN-u8_2ixOU/hqdefault.jpg"
+            },
+            { 
+                "title": "CASIMIRO FALA COMO FOI A PREMIAÇÃO DA GQ",
+                "url": "https://www.youtube.com/watch?v=ai7x1enODnk",
+                "thumb": "https://img.youtube.com/vi/ai7x1enODnk/hqdefault.jpg"
+            },
+            { 
+                "title": "A Special Cringe",
+                "url": "https://www.youtube.com/watch?v=ntxkivAc-LQ",
+                "thumb": "https://img.youtube.com/vi/ntxkivAc-LQ/hqdefault.jpg"
+            },
+            { 
+                "title": "Election Subversion: Last Week Tonight with John Oliver (HBO)",
+                "url": "https://www.youtube.com/watch?v=Y0LA7Ff2hgs",
+                "thumb": "https://img.youtube.com/vi/Y0LA7Ff2hgs/hqdefault.jpg"
+            }
+        ],
+        "music": [
+            { 
+                "title": "I Used Liszt to Make “Synthwave” - the results were hilarious.",
+                "url": "https://www.youtube.com/watch?v=g1AC47egc2E",
+                "thumb": "https://img.youtube.com/vi/g1AC47egc2E/hqdefault.jpg"
+            },
+            { 
+                "title": "Tik Tok and dissonance do not mix",
+                "url": "https://www.youtube.com/watch?v=mqsnqIw--RU",
+                "thumb": "https://img.youtube.com/vi/mqsnqIw--RU/hqdefault.jpg"
+            },
+            { 
+                "title": "Fixing Led Zeppelin with Autotune",
+                "url": "https://www.youtube.com/watch?v=yxX2u8iggYI",
+                "thumb": "https://img.youtube.com/vi/yxX2u8iggYI/hqdefault.jpg"
+            },
+            { 
+                "title": "EU TE DEVORO | HAMILTON DE HOLANDA & MESTRINHO",
+                "url": "https://www.youtube.com/watch?v=_evxOHtIkB0",
+                "thumb": "https://img.youtube.com/vi/_evxOHtIkB0/hqdefault.jpg"
+            },
+            { 
+                "title": "Chris Stapleton: NPR Music Tiny Desk Concert",
+                "url": "https://www.youtube.com/watch?v=YcHL0kUFPhw",
+                "thumb": "https://img.youtube.com/vi/YcHL0kUFPhw/hqdefault.jpg"
+            }
+        ],
+        "front-end": [
+            {
+                "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
+                "url": "https://youtube.com/watch?v=jOAU81jdi-c",
+                "thumb": "https://img.youtube.com/vi/jOAU81jdi-c/hqdefault.jpg"
+            },
+            {
+                "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
+                "url": "https://www.youtube.com/watch?v=llF6vD-RljE",
+                "thumb": "https://img.youtube.com/vi/llF6vD-RljE/hqdefault.jpg"
+            },
+            {
+                "title": "A Primeira Aula de Flutter Que Todo Mundo Deveria Ter",
+                "url": "https://www.youtube.com/watch?v=J4BVaXkwmM8",
+                "thumb": "https://img.youtube.com/vi/J4BVaXkwmM8/hqdefault.jpg"
+            },
+            {
+                "title": "O QUE SÃO FRAMEWORKS E BIBLIOTECAS? QUAIS AS DIFERENÇAS?",
+                "url": "https://www.youtube.com/watch?v=dp0zB4n3MUs",
+                "thumb": "https://img.youtube.com/vi/dp0zB4n3MUs/hqdefault.jpg"
+            },
+            {
+                "title": "Angular (O Vídeo que Você Precisava para Começar no Framework) // Dicionário do Programador",
+                "url": "https://www.youtube.com/watch?v=Yf0rC7dERjg",
+                "thumb": "https://img.youtube.com/vi/Yf0rC7dERjg/hqdefault.jpg"
+            },
+            {
+                "title": "Como Foi Programado um App Que Faz Mágica",
+                "url": "https://www.youtube.com/watch?v=I36seuWUe5s",
+                "thumb": "https://img.youtube.com/vi/I36seuWUe5s/hqdefault.jpg"
+            },
+            {
+                "title": "O que todo iniciante em Front End deveria aprender | Como manipular arrays e objetos em JavaScript",
+                "url": "https://www.youtube.com/watch?v=yS7AcF-xRUg",
+                "thumb": "https://img.youtube.com/vi/yS7AcF-xRUg/hqdefault.jpg"
+            },
+            {
+                "title": "5 Erros Históricos do CSS",
+                "url": "https://www.youtube.com/watch?v=HNjkqONzGS0",
+                "thumb": "https://img.youtube.com/vi/HNjkqONzGS0/hqdefault.jpg"
+            },
+            {
+                "title": "Deploy de Front End ATUALIZADO! | O que eu uso para hospedagem de Front End",
+                "url": "https://www.youtube.com/watch?v=d9c0r-J6CdM",
+                "thumb": "https://img.youtube.com/vi/d9c0r-J6CdM/hqdefault.jpg"
+            }
+        ],
+        "back-end": [
+            {
+                "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
+                "url": "https://www.youtube.com/watch?v=dvd3pNYh7So",
+                "thumb": "https://img.youtube.com/vi/dvd3pNYh7So/hqdefault.jpg"
+            },
+            {
+                "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
+                "url": "https://www.youtube.com/watch?v=8q36rNS5yVo",
+                "thumb": "https://img.youtube.com/vi/8q36rNS5yVo/hqdefault.jpg"
+            },
+            {
+                "title": "O que é o Java? #HipstersPontoTube",
+                "url": "https://www.youtube.com/watch?v=90NcVNsKGik",
+                "thumb": "https://img.youtube.com/vi/90NcVNsKGik/hqdefault.jpg"
+            },
+            {
+                "title": "O que é Machine Learning? #HipstersPontoTube",
+                "url": "https://www.youtube.com/watch?v=Iuz_jc96bQk",
+                "thumb": "https://img.youtube.com/vi/Iuz_jc96bQk/hqdefault.jpg"
+            },
+            {
+                "title": "A MELHOR linguagem de programação com Fabio Akita | #HipstersPontoTube",
+                "url": "https://www.youtube.com/watch?v=imB0QVoNrGc",
+                "thumb": "https://img.youtube.com/vi/imB0QVoNrGc/hqdefault.jpg"
+            },
+            {
+                "title": "Top 5 libs que todo aplicativo Android deve ter com Alex Felipe | #HipstersPontoTube",
+                "url": "https://www.youtube.com/watch?v=ldRbnpy-qQs",
+                "thumb": "https://img.youtube.com/vi/ldRbnpy-qQs/hqdefault.jpg"
+            },
+            {
+                "title": "O que é o C#? #HipstersPontoTube",
+                "url": "https://www.youtube.com/watch?v=0JWMVc1CqpA",
+                "thumb": "https://img.youtube.com/vi/0JWMVc1CqpA/hqdefault.jpg"
+            }
+        ]
+    }
+}
