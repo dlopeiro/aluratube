@@ -63,15 +63,17 @@ function Header() {
             <StyledBanner bg={config.bg}/> {/*this is part of the versatile*/}
             {/* {<img src="https://unsplash.com/photos/ePpaQC2c1xA" />} */}
             <section className="user-info">
-                <img src={`https://github.com/${config.github}.png`} />
-                <div>
+                <a href={`https://github.com/${config.github}`} color="black">
+                    <img src={`https://github.com/${config.github}.png`} />
+                </a>
+                <a href={`https://linkedin.com/in/${config.linkedin}`}>
                     <h2>
                         {config.name}
                     </h2>
                     <p>
                         {config.job}
                     </p>
-                </div>
+                </a>
             </section>
         </StyledHeader>
     )
